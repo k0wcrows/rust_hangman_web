@@ -1,4 +1,4 @@
-# Rust Hangman WASM Game
+# Rust Hangman WebAssembly (WASM) Game
 
 A simple Hangman game built in Rust, compiled to WebAssembly, and playable in the browser.
 
