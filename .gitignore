@@ -1,0 +1,21 @@
+# Rust build files
+/target/
+/**/*.rs.bk
+
+# WASM pack output (optional, if you want to rebuild each time)
+/pkg/
+
+# VS Code settings
+.vscode/
+
+# MacOS files
+.DS_Store
+
+# Node modules (if you add any npm stuff later)
+node_modules/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
